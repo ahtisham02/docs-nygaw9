@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-j3kuho.absolutebeachview.co.nz/sitemap.xml
